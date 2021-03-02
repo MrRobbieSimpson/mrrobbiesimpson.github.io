@@ -195,7 +195,7 @@ p {
   .bio {
     font-size: 14px;
     margin-bottom: 0;
-        font-family: 'SF Compact Display Thin';
+    font-weight: 400;
   }
 
 .main {
