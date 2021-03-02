@@ -124,7 +124,7 @@ h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 strong {
-  font-family: 'SF Compact Display Medium';
+  font-family: 'SF Compact Display Medium', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;}
 
 /* Larger than phablet */
@@ -189,7 +189,7 @@ p {
   margin-top: 0; }
 
   .introduction {
-    font-family: 'SF Compact Display Thin';
+    font-family: 'SF Compact Display Thin', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
 
   .bio {
@@ -207,7 +207,7 @@ p {
 .detail {
   font-size: 12px;
   opacity: 0.6;
-  font-family: 'SF Compact Display Thin';
+  font-family: 'SF Compact Display Thin', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-bottom: 0;
 }
 
