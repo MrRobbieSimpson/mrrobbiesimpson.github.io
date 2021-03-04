@@ -23,6 +23,7 @@
   <link rel="stylesheet" href="css/custom.css">
   <link rel="stylesheet" href="css/fonts.css">
   <link rel="stylesheet" href="css/banner.css">
+  <link rel="stylesheet" href="css/dark.css">
   <link rel="stylesheet" href="https://use.typekit.net/ksp1nyc.css">
 
   <!-- Favicon
@@ -35,7 +36,6 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-
   <nav class="navbar">
 
     <div class="container">
@@ -46,31 +46,11 @@
           <a class="navbar-link" href="https://github.com/MrRobbieSimpson/" data-popover="https://github.com/MrRobbieSimpson/">Development</a>
 
         </li>
+
         <li class="navbar-item"><a class="navbar-link" href="https://medium.com/@MrRobSimpson">Theory</a></li>
-          <li class="navbar-item"><button style="margin-left:275px;"><a href="https://drive.google.com/file/d/1vGZuZPJ9IPC2Aih3lEflR6KpAWSptMUs/view?usp=sharing"> Digital CV</a></button></li>
-          <div id="moreNavPopover" class="popover">
-            <ul class="popover-list">
-              <li class="popover-item">
-                <a class="popover-link" href="https://github.com/dhg/Skeleton">On Github</a>
-              </li>
-              <li class="popover-item">
-                <a class="popover-link" href="https://github.com/dhg/Skeleton#browser-support">Browsers</a>
-              </li>
-              <li class="popover-item">
-                <a class="popover-link" href="https://github.com/dhg/Skeleton#license">License</a>
-              </li>
-              <li class="popover-item">
-                <a class="popover-link" href="https://github.com/dhg/Skeleton#extensions">Extensions</a>
-              </li>
-              <li class="popover-item">
-                <a class="popover-link" href="https://github.com/dhg/Skeleton/releases">Versions</a>
-              </li>
-              <li class="popover-item">
-                <a class="popover-link" href="https://github.com/dhg/Skeleton#colophon">Colophon</a>
-              </li>
-            </ul>
-          </div>
-        </li>
+                <li class="navbar-item"><a class="navbar-link" href="https://drive.google.com/file/d/1vGZuZPJ9IPC2Aih3lEflR6KpAWSptMUs/view?usp=sharing">Digital CV</a></li>
+
+              <li class="navbar-item"><button onclick="myFunction()" style="float:right; margin-left:200px;">Light/Dark</button></li>
       </ul>
     </div>
   </nav>
@@ -150,6 +130,12 @@ Since realising the potential of Photoshop and Illustrator I followed tutorials 
 <a href="https://github.com/MrRobbieSimpson" style="float:right; padding-left: 6px;">Github</a>
 </footer>
 
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
