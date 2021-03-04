@@ -476,6 +476,14 @@ th:last-child,
 td:last-child {
   padding-right: 0; }
 
+  /* Dark Mode Toggle
+  _____________________________*/
+  .dark-mode {
+    background-color: #f2f2f2;
+    color: #262626;
+  }
+
+
 
 /* Spacing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
