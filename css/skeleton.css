@@ -547,15 +547,25 @@ hr {
 
 @media only screen and (max-width: 620px) {
   .introtext {
-  display: none;
+transform: none;
+font-size: 42px;
+margin-top: 0px;
+display:inline;
+float: right;
 }
 
 .introtextone {
-display: none;
+transform: none;
+font-size: 42px;
+margin-top: 0px;
+display: inline;
+
 }
 
 .introtexttwo {
-display: none;
+transform: none;
+font-size: 59px;
+margin-top: 0px;
 }
 
 .profile {
