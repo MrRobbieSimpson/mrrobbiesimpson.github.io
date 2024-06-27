@@ -12,6 +12,10 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
+footer {
+  padding-bottom: 25px;
+}
+
 /**
  * Remove default margin.
  */
