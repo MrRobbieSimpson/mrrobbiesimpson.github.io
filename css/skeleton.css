@@ -588,7 +588,7 @@ h5 {
   @media only screen and (max-width: 548px) {
     .introtext {
   transform: none;
-  font-size: 42px;
+  font-size: 32px;
   margin-top: 0px;
   display:inline;
   float: right;
@@ -596,7 +596,7 @@ h5 {
 
   .introtextone {
   transform: none;
-  font-size: 42px;
+  font-size: 32px;
   margin-top: 0px;
   display: inline;
 
