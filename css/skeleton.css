@@ -627,16 +627,16 @@ h5 {
 /* Larger than mobile */
 @media (max-width: 475px) {
   .introtext {
-display: none;
+display: inline;
 }
 
 .introtextone {
-display: none;
+display: inline;
 
 }
 
 .introtexttwo {
-display: none;
+display: inline;
 }
 
 .profile {
