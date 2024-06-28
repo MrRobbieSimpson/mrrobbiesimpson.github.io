@@ -12,6 +12,11 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
+img {
+    width: 100%;
+  height: auto;
+}
+
 footer {
   padding-bottom: 25px;
 }
