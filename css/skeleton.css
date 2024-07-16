@@ -329,7 +329,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: transparent;
   border-radius: 64px;
-  border: 2px solid #fff;
+  border: 1px solid #fff;
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
@@ -342,8 +342,9 @@ button:focus,
 input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
-
-  border-color: #888;
+  color: #262626;
+  background-color: #fff;
+  border-color: #fff
   outline: 0; }
 .button.button-primary,
 button.button-primary,
