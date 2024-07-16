@@ -112,24 +112,8 @@ body {
   font-family: 'SF Compact Display Medium', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #fff;
   padding-top: 120px;
- background: linear-gradient(210deg, #262626,#6B3AF5,#381F80,#000);
-  background-size: 300% 300%;
-  animation: background 7s linear infinite;
-}
+ background-color: #262626;}
 
-@keyframes background {
-  0% {
-    background-position: 50% 0%
-  }
-  50% {
-    background-position: 50% 100%
-  }
-  100%{
-    background-position: 50% 0%
-  }
-}
-
-}
 
 
 /* Typography
