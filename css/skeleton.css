@@ -338,9 +338,9 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover,
  {
-  color: #262626;
-  background-color: #ffffff;
-	  background-image: linear-gradient(45deg, #33d9de 0%, #33d9de 55%, #243f81 90%);
+  color: #fff;
+  background: rgb(9,9,121);
+background: radial-gradient(circle, rgba(9,9,121,1) 0%, rgba(128,0,158,1) 100%);
   border-color: #fff;
 transition: 0.8s;
   outline: 0; }
