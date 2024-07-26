@@ -339,8 +339,7 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
  {
   color: #fff;
-  background: rgb(9,9,121);
-background: radial-gradient(circle, rgba(9,9,121,1) 0%, rgba(128,0,158,1) 100%);
+background-color:#1EAEDB;
   border-color: #fff;
 transition: 0.8s;
   outline: 0; }
