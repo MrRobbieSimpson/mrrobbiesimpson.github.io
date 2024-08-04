@@ -1,6 +1,7 @@
 
-
+/*fonts */
   @import url("https://use.typekit.net/ksp1nyc.css");
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 
 
 
@@ -194,7 +195,7 @@ p {
   margin-top: 0; }
 
   .introduction {
-    font-family: 'SF Compact Display Thin', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'manrope', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
 
   .bio {
