@@ -135,11 +135,11 @@
     float: left;
     margin-bottom: 0; }
   .navbar-link {
-   font-size: 11px;
+   font-size: 12px;
     font-weight: bold;
-    margin-right: 15px;
+    margin-right: 18px;
     text-decoration: none;
-    letter-spacing:0.18rem;
+    letter-spacing:0.2rem;
     text-transform: uppercase;
     line-height: 6.5rem;
     color: #fff;}
