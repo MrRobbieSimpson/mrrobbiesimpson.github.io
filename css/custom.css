@@ -136,10 +136,12 @@
     margin-bottom: 0; }
   .navbar-link {
 
-    font-size: 16px;
-    font-weight: 800;
+    font-size: 13px;
+    font-weight: bold;
     margin-right: 35px;
     text-decoration: none;
+    letter-spacing:0.18rem;
+    text-transform: uppercase;
     line-height: 6.5rem;
     color: #fff;}
   .navbar-link.active {
